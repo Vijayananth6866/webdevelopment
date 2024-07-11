@@ -1,0 +1,85 @@
+body {
+    background-color: wheat;
+}
+
+div.star1 {
+    background-color: rgb(208, 179, 245);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+div.star2 {
+    background-color: rgb(179, 245, 190);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+div.star3 {
+    background-color: rgb(245, 179, 234);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+div.star4 {
+    background-color: rgb(233, 245, 179);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+div.star5 {
+    background-color: rgb(179, 232, 245);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+div#mail {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+
+}
+
+div#num {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+
+}
+
+div#down {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+
+}
+
+div#img {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+
+}
+
+div#ab {
+    color: violet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+
+}
+
+div#rel {
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+
+}
